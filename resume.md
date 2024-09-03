@@ -1,11 +1,7 @@
 # Spencer Bechtol
 
-#### Student
-
-
-
 #### Education
-+ Bachelors
++ Bachelors - Appalachian State University
     - Major
         - [Department of Biology](https://biology.appstate.edu/)
     - Minor & GIS Certification
@@ -26,5 +22,7 @@
     - Several Sampling Trips 
     - Undergraduate Research Assistant
 #### Research
-
++ Dam Removal of the Payne Branch Dam
++ Population Distribution of *Macromia margarita*
++ Recovery of the Pigeon River After the Closure of the Paper Mill
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/East_Fork_of_the_Pigeon_River.png">
