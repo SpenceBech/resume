@@ -31,4 +31,4 @@
 + Recovery of the Pigeon River After the Closure of the Paper Mill
     - Dr. Shea Tuberty; Dominik Bettini
 
-<img src="https://keep.google.com/u/0/media/v2/17-1suE7sKl6wX9z0CFwg6ZKtu42lhwmMMabnthlnv5reYdafjA1PICzJyWpeSQ/1Ki279PwcJtnqbWG8t-tl-5TqaPquZe31tKWHw15mqgWvXmT5GQgPcx6jrlG-Eg?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=1600">
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlKRPVJeaiD4TV6J6-LZ_nHFFDsn8f-R2pnPaWDbU65zRaN0zpmsnTqK25LU5pnwBVA-nYkqo7TwAOegTIN8NUsAEpa2Mm_P637U9YrelL-hrcvLdSeIaA=s1600">
